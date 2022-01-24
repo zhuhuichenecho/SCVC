@@ -1,0 +1,15 @@
+simdata-MSTequal.m: generate MSTeuqal data. phi=0.1,1 correspond to weak and strong correlation.                     scenario='constant_cluster'/'smooth_cluster' correspond to Study1/2.
+
+simdata-MSTequal.m: generate MSTuneuqal data. phi=0.1,1 correspond to weak and strong correlation.                                         scenario='constant_cluster'/'smooth_cluster' correspond to Study1/2.
+
+simdata-smooth.m: generate data with smooth-varying coefficients. phi=0.1,1 correspond to weak and strong correlation. 
+
+SCVC: Implement SCVC method.
+
+PSE: Implement PSE method.
+
+SCC-star: Implement SCC* method.
+
+GWR and SCC: are included in "simdata-MSTequal"£¬ "simdata-MSTunequal" and "simdata-smooth.m".
+
+draw Figure2.m£ºdraw Figure 2.

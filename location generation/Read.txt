@@ -1,0 +1,5 @@
+locations_MST-equal.r: generate MST-equal locations£¬i.e., svc_pattern.mat.
+
+locations_MST-unequal.r: generate MST-unequal locations£¬i.e., try_nonperfect_svc_pattern.mat.
+
+
